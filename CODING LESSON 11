@@ -1,0 +1,19 @@
+package selfProgramming;
+
+public class Lesson11 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i;
+		i = 1;
+		
+		do {
+			System.out.println("The do-whileloop variable is: " + i);
+			i++;
+		
+		
+		} while(i <= 15 );
+		
+	}
+	}
+
