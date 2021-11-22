@@ -1,0 +1,16 @@
+package selfProgramming;
+
+public class JavaIsFun {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Print a text 5 times
+		
+		int n = 5;
+		//for loop
+		for (int i = 1; i <= n; ++i) {
+			System.out.println("Java is fun!");
+		}
+	}
+
+}
